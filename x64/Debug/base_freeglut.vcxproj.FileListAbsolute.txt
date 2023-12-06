@@ -1,0 +1,2 @@
+C:\Users\Victor Fenton\Documents\PurdueCS\CS334\a1_base_freeglut\a1_base_freeglut\x64\Debug\base_freeglut.exe
+C:\Users\Victor Fenton\Documents\PurdueCS\CS334\Final Project\x64\Debug\base_freeglut.exe

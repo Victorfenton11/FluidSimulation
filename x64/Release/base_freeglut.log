@@ -1,0 +1,15 @@
+﻿  main.cpp
+C:\Users\Victor Fenton\Documents\PurdueCS\CS334\Final Project\src\main.cpp(24,33): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Victor Fenton\Documents\PurdueCS\CS334\Final Project\src\main.cpp(24,26): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+C:\Users\Victor Fenton\Documents\PurdueCS\CS334\Final Project\src\main.cpp(25,40): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Victor Fenton\Documents\PurdueCS\CS334\Final Project\src\main.cpp(25,31): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+C:\Users\Victor Fenton\Documents\PurdueCS\CS334\Final Project\src\main.cpp(26,37): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Victor Fenton\Documents\PurdueCS\CS334\Final Project\src\main.cpp(26,29): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+C:\Users\Victor Fenton\Documents\PurdueCS\CS334\Final Project\src\main.cpp(51,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Victor Fenton\Documents\PurdueCS\CS334\Final Project\src\main.cpp(205,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  4 of 647 functions ( 0.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  base_freeglut.vcxproj -> C:\Users\Victor Fenton\Documents\PurdueCS\CS334\Final Project\x64\Release\base_freeglut.exe
