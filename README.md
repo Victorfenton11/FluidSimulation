@@ -7,7 +7,8 @@
 ![alt text](https://github.com/Victorfenton11/FluidSimulation/blob/main/images/slide4.jpg?raw=true)
 ![alt text](https://github.com/Victorfenton11/FluidSimulation/blob/main/images/slide5.jpg?raw=true)
 ![alt text](https://github.com/Victorfenton11/FluidSimulation/blob/main/images/slide6.jpg?raw=true)
-
+![alt text](https://github.com/Victorfenton11/FluidSimulation/blob/main/images/falling_particles.gif?raw=true)
+![alt text](https://github.com/Victorfenton11/FluidSimulation/blob/main/images/maze.gif?raw=true)
 
 <h2>Instructions to Run Project Code</h2>
 
