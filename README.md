@@ -1,3 +1,12 @@
+![alt text](https://github.com/Victorfenton11/FluidSimulation/blob/main/slide0.jpg?raw=true)
+![alt text](https://github.com/Victorfenton11/FluidSimulation/blob/main/slide1.jpg?raw=true)
+![alt text](https://github.com/Victorfenton11/FluidSimulation/blob/main/slide2.jpg?raw=true)
+![alt text](https://github.com/Victorfenton11/FluidSimulation/blob/main/slide3.jpg?raw=true)
+![alt text](https://github.com/Victorfenton11/FluidSimulation/blob/main/slide4.jpg?raw=true)
+![alt text](https://github.com/Victorfenton11/FluidSimulation/blob/main/slide5.jpg?raw=true)
+![alt text](https://github.com/Victorfenton11/FluidSimulation/blob/main/slide6.jpg?raw=true)
+
+
 FreeGLUT template code for CS334
 
 
